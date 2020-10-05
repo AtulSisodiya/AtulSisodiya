@@ -24,11 +24,15 @@ Software Engineering student learning to translate business requirements into te
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtulSisodiya&show_icons=true&include_all_commits=true&theme=onedark" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtulSisodiya&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSisodiya&layout=compact&theme=onedark&hide=html,css,hack&langs_count=7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSisodiya&layout=compact&theme=radical&hide=html,css,hack&langs_count=7" />
+</a>
+<a href="https://github.com/AtulSisodiya/Atul_Sisodiya_resume.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=Atul_Sisodiya_resume.github.io&theme=radical" />
 </a>
 <p align="center"> 
   Visitor count<br>
