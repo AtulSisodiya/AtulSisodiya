@@ -25,7 +25,7 @@ Software Engineering student learning to translate business requirements into te
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSisodiya&layout=compact&theme=radical&hide=html,css,hack&langs_count=7" />
 </a>
-<a href="https://github.com/AtulSisodiya/Atul_Sisodiya_resume.github.io">
+<a href="https://atulsisodiya.github.io/Atul_Sisodiya_resume.github.io/" >
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulSisodiya&repo=Atul_Sisodiya_resume.github.io&theme=radical" />
 </a>
