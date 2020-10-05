@@ -32,7 +32,7 @@ Software Engineering student learning to translate business requirements into te
 </a>
 <a href="https://github.com/AtulSisodiya/Atul_Sisodiya_resume.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=Atul_Sisodiya_resume.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AtulSisodiya&repo=Atul_Sisodiya_resume.github.io&theme=radical" />
 </a>
 <p align="center"> 
   Visitor count<br>
