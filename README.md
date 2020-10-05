@@ -28,7 +28,7 @@ Software Engineering student learning to translate business requirements into te
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSisodiya&layout=compact&theme=radical&hide=html,css,javascript&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulSisodiya&layout=compact&theme=radical&hide=html,css&langs_count=8" />
 </a>
 <p align="center"> 
   Visitor count<br>
