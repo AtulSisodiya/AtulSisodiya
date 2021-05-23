@@ -9,7 +9,8 @@
 Hi, I am Atul Sisodiya,I am an aspiring software engineer who enjoys everything about coding.
 Software Engineering student learning to translate business requirements into technical solutions.
 
-- 🌱 I'm currently Managed Network Expert at Chegg.
+- 🌱 I'm a Technical Content Writing Intern at GeeksforGeeks
+- 🌱 I'm also Managed Network Expert at Chegg.
 - 🌱 I'm a web developer as well as a competitive coder.
 
 
