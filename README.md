@@ -4,8 +4,7 @@
 <br />
 <br />
 
-Hi, I am Atul Sisodiya,I am an aspiring software engineer who enjoys everything about coding.
-Software Engineering student learning to translate business requirements into technical solutions.
+Hi, I am Atul Sisodiya,
 
 - 🌱 Teaching Assistant and Technical Content Writing Intern at GeeksforGeeks.
 - 🌱 I'm also A subject Matter Expert of Advance Mathematics at Chegg.
